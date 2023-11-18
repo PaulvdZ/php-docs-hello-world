@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e0f6a99e-7dea-45de-87a1-5b36e2466ef9/resourceGroups/Website/providers/Microsoft.Web/sites/vanderzel",
+    "appService.deploySubpath": "."
+}
